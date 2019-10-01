@@ -46,6 +46,10 @@ const ask = async prompt => {
       console.log(`\nAh, that\'s right, that is ${answer}`)
       console.log('')
       i++
+    } else if (answer.toLowerCase() === 'hint') {
+      console.log('Oh you need a hint. Well here you go.\n\n')
+      console.log(prompt.hint)
+      console.log('\n\n')
     } else {
       console.log('No that\'s not it. I\'m pretty sure it\'s updog')
       console.log('')
@@ -54,7 +58,7 @@ const ask = async prompt => {
     if (prompts[i]) {
       setTimeout(() => {
         ask(prompts[i])
-      }, 1000)
+      }, 2000)
     } else {
       console.log('')
       console.log('Huzzah! You are now an updog master. Go forth and conquer!!')
