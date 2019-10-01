@@ -1,4 +1,7 @@
 [
-  { "word": "Upton", "clue": "a famous American author who wrote the book \"The Jungle\" about the shabby state of the meat industry" },
-  { "word": "Upgrade", "clue": "when you install a new version of software" }
+  { "word": "Upton", "clue": "a famous American author who wrote the book \"The Jungle\" about the shabby state of the meat industry", "hint": "https://en.wikipedia.org/wiki/The_Jungle" },
+  { "word": "Upgrade", "clue": "when you install more RAM in an old computer", "hint": "https://en.wikipedia.org/wiki/Upgrade" },
+  { "word": "Upset", "clue": "when a bad team wins", "hint": "https://en.wikipedia.org/wiki/Miracle_on_Ice" },
+  { "word": "Updraft", "clue": "when warm air rises quickly, sometimes creating clouds", "hint": "https://en.wikipedia.org/wiki/Vertical_draft" },
+  { "word": "Uptown", "clue": "the the word before 'funk gon' give it to you'", "hint": "https://www.youtube.com/watch?v=OPf0YbXqDm0" }
 ]
