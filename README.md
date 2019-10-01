@@ -12,7 +12,7 @@ Clone the repo
 
 ### Prompts
 
-We're looking for prompts. Be creative. The three types of clues we are looking for are `Up<something>` ex. `Updraft`, `<something>dog` ex. `hotdog`, and `<direction><animal>` ex. `left shark`. Any submissions will be considered however. If you think it might be a stretch, feel free to include a comment as to why your clue works.
+We're looking for prompts. Be creative. The three types of clues we are looking for are `Up<something>` ex. `Updraft`, `<something>dog` ex. `hotdog`, and `<direction><animal>` ex. `left shark`. Any submissions will be considered however. If you think it might be a stretch, feel free to include a comment as to why your clue works. Prompts can be found in `./prompts.json`. Each prompt needs a word, a clue, and a hint. Check the existing ones for more info.
 
 ### Game play
 
